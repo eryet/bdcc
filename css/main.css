@@ -104,7 +104,7 @@ h2 {
 #header {
   display:-webkit-box;
   display:-ms-flexbox;
-  display:flex;
+  display:block;
   color:#b93939;
   background-color:#fff;
   z-index:2;
