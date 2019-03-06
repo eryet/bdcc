@@ -1,2 +1,2 @@
-# eryet.github.io
+# bdcc(Bang Dream Choco cornet
 Introduction webpage for ChocoCornet
