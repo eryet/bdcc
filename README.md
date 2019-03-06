@@ -1,2 +1,2 @@
-# bdcc(Bang Dream Choco cornet
+# bdcc(Bang Dream Choco cornet)
 Introduction webpage for ChocoCornet
